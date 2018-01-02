@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Sonali</name>
+        <order/>
+        <roles>x_27325_sonali.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-02 15:53:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>150da867db5b4b002a86721dbf96194c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Sonali</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Sonali" source="x_27325_sonali">8d0da863db1b4b002a86721dbf9619a0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sonali">8d0da863db1b4b002a86721dbf9619a0</sys_scope>
+        <sys_update_name>sys_app_application_150da867db5b4b002a86721dbf96194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-02 15:53:21</sys_updated_on>
+        <title>Sonali</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
